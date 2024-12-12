@@ -26,8 +26,5 @@ jobs:
           pip install -r requirements.txt  
       - name: Run analysis
         run: |
-          python sentiment_analysis.py
+          python notebooks/sentiment_analysis.py
 
-      - name: Generate report
-        run: |
-          python generate_report.py  
