@@ -1,3 +1,4 @@
 {
-  "cSpell.words": ["nessasary"]
+  "cSpell.words": ["nessasary"],
+  "python.analysis.extraPaths": ["./scripts"]
 }
